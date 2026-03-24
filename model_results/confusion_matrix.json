@@ -1,0 +1,9 @@
+{
+    "true_negatives": 338,
+    "false_positives": 22,
+    "false_negatives": 31,
+    "true_positives": 193,
+    "total_samples": 584,
+    "dropout_rate": 0.8616071428571429,
+    "graduate_rate": 0.9388888888888889
+}

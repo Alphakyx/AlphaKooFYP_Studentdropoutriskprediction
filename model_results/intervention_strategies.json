@@ -1,0 +1,63 @@
+{
+    "academic_factors": {
+        "poor_grades": [
+            "Provide free tutoring services",
+            "Connect with peer study groups",
+            "Offer supplemental instruction",
+            "Schedule regular check-ins with academic advisors"
+        ],
+        "low_attendance": [
+            "Send automated attendance alerts",
+            "Schedule meeting with counselor",
+            "Identify and address underlying issues",
+            "Offer flexible learning options"
+        ],
+        "failed_units": [
+            "Provide academic recovery plan",
+            "Reduce course load if necessary",
+            "Offer course retake with additional support",
+            "Connect with subject matter experts"
+        ]
+    },
+    "socioeconomic_factors": {
+        "financial_difficulty": [
+            "Connect with financial aid office",
+            "Provide scholarship opportunities",
+            "Offer emergency grants",
+            "Help find part-time employment",
+            "Waive late payment fees"
+        ],
+        "tuition_debt": [
+            "Set up payment plans",
+            "Connect with debt counseling",
+            "Provide budgeting workshops",
+            "Offer work-study programs"
+        ],
+        "low_parental_education": [
+            "Assign first-generation student mentor",
+            "Provide family orientation programs",
+            "Offer additional academic guidance",
+            "Connect with first-gen student groups"
+        ]
+    },
+    "demographic_factors": {
+        "international_student": [
+            "Provide cultural adjustment support",
+            "Connect with international student office",
+            "Offer language support services",
+            "Facilitate peer buddy system"
+        ],
+        "older_student": [
+            "Offer flexible scheduling",
+            "Provide online course options",
+            "Connect with adult learner resources",
+            "Offer childcare information"
+        ],
+        "displaced_student": [
+            "Provide housing assistance",
+            "Connect with local resources",
+            "Offer transportation support",
+            "Facilitate community connections"
+        ]
+    }
+}

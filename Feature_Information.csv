@@ -1,0 +1,35 @@
+Feature_Name,Data_Type,Category
+Marital status,int64,Demographic
+Application mode,int64,Other
+Application order,int64,Other
+Course,int64,Academic
+Daytime/evening attendance,int64,Other
+Previous qualification,int64,Socioeconomic
+Nationality,int64,Other
+Mother's qualification,int64,Socioeconomic
+Father's qualification,int64,Socioeconomic
+Mother's occupation,int64,Socioeconomic
+Father's occupation,int64,Socioeconomic
+Displaced,int64,Socioeconomic
+Educational special needs,int64,Other
+Debtor,int64,Socioeconomic
+Tuition fees up to date,int64,Socioeconomic
+Gender,int64,Demographic
+Scholarship holder,int64,Socioeconomic
+Age at enrollment,int64,Demographic
+International,int64,Demographic
+Curricular units 1st sem (credited),int64,Academic
+Curricular units 1st sem (enrolled),int64,Academic
+Curricular units 1st sem (evaluations),int64,Academic
+Curricular units 1st sem (approved),int64,Academic
+Curricular units 1st sem (grade),float64,Academic
+Curricular units 1st sem (without evaluations),int64,Academic
+Curricular units 2nd sem (credited),int64,Academic
+Curricular units 2nd sem (enrolled),int64,Academic
+Curricular units 2nd sem (evaluations),int64,Academic
+Curricular units 2nd sem (approved),int64,Academic
+Curricular units 2nd sem (grade),float64,Academic
+Curricular units 2nd sem (without evaluations),int64,Academic
+Unemployment rate,float64,Other
+Inflation rate,float64,Other
+GDP,float64,Other

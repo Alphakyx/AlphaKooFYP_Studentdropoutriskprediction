@@ -1,0 +1,30 @@
+{
+  "Logistic Regression": {
+    "final_train_score": 0.9133941768773278,
+    "final_cv_score": 0.9094548855181905,
+    "train_cv_gap": 0.003939291359137287,
+    "score_improvement": 0.014229916808761844,
+    "converged": true
+  },
+  "Support Vector Machine": {
+    "final_train_score": 0.9991302830273183,
+    "final_cv_score": 0.9257466826024332,
+    "train_cv_gap": 0.07338360042488512,
+    "score_improvement": 0.08499436174043329,
+    "converged": false
+  },
+  "Random Forest": {
+    "final_train_score": 1.0,
+    "final_cv_score": 0.924602762918181,
+    "train_cv_gap": 0.075397237081819,
+    "score_improvement": 0.03861477641097433,
+    "converged": true
+  },
+  "XGBoost": {
+    "final_train_score": 1.0,
+    "final_cv_score": 0.9315718668355519,
+    "train_cv_gap": 0.06842813316444807,
+    "score_improvement": 0.0589661270410734,
+    "converged": true
+  }
+}

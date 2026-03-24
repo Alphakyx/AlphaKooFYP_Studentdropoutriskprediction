@@ -1,0 +1,28 @@
+{
+    "low_risk": {
+        "threshold": 0.3,
+        "description": "Students with dropout probability < 30%",
+        "intervention": "Standard support - Regular monitoring",
+        "color": "green"
+    },
+    "medium_risk": {
+        "threshold": 0.6,
+        "description": "Students with dropout probability 30-60%",
+        "intervention": "Enhanced support - Academic counseling, tutoring",
+        "color": "orange"
+    },
+    "high_risk": {
+        "threshold": 1.0,
+        "description": "Students with dropout probability > 60%",
+        "intervention": "Intensive intervention - Financial aid, mentoring, immediate action",
+        "color": "red"
+    },
+    "distribution": {
+        "low_risk_count": 1645,
+        "medium_risk_count": 288,
+        "high_risk_count": 983,
+        "low_risk_percentage": 56.412894375857334,
+        "medium_risk_percentage": 9.876543209876543,
+        "high_risk_percentage": 33.710562414266114
+    }
+}

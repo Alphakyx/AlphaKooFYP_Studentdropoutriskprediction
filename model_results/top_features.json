@@ -1,0 +1,110 @@
+{
+    "top_10_features": [
+        {
+            "Feature": "Curricular units 2nd sem (approved)",
+            "Importance": 2.7546282309383456
+        },
+        {
+            "Feature": "Curricular units 2nd sem (enrolled)",
+            "Importance": 1.2171429629052166
+        },
+        {
+            "Feature": "Curricular units 1st sem (approved)",
+            "Importance": 1.0140960234536665
+        },
+        {
+            "Feature": "Tuition fees up to date",
+            "Importance": 0.5772110255073006
+        },
+        {
+            "Feature": "Debtor",
+            "Importance": 0.46237001596875593
+        },
+        {
+            "Feature": "Course",
+            "Importance": 0.36093326162699346
+        },
+        {
+            "Feature": "Scholarship holder",
+            "Importance": 0.3009911176659903
+        },
+        {
+            "Feature": "Curricular units 1st sem (credited)",
+            "Importance": 0.2808172059852654
+        },
+        {
+            "Feature": "Gender",
+            "Importance": 0.22129264431851253
+        },
+        {
+            "Feature": "Curricular units 2nd sem (evaluations)",
+            "Importance": 0.18581814631310167
+        }
+    ],
+    "top_socioeconomic": [
+        {
+            "feature": "Tuition fees up to date",
+            "importance": 0.5772110255073006
+        },
+        {
+            "feature": "Debtor",
+            "importance": 0.46237001596875593
+        },
+        {
+            "feature": "Scholarship holder",
+            "importance": 0.3009911176659903
+        },
+        {
+            "feature": "Previous qualification",
+            "importance": 0.03946340511188111
+        },
+        {
+            "feature": "Mother's occupation",
+            "importance": 0.021422694052335368
+        }
+    ],
+    "top_academic": [
+        {
+            "feature": "Curricular units 2nd sem (approved)",
+            "importance": 2.7546282309383456
+        },
+        {
+            "feature": "Curricular units 2nd sem (enrolled)",
+            "importance": 1.2171429629052166
+        },
+        {
+            "feature": "Curricular units 1st sem (approved)",
+            "importance": 1.0140960234536665
+        },
+        {
+            "feature": "Curricular units 1st sem (credited)",
+            "importance": 0.2808172059852654
+        },
+        {
+            "feature": "Curricular units 2nd sem (evaluations)",
+            "importance": 0.18581814631310167
+        }
+    ],
+    "top_demographic": [
+        {
+            "feature": "Gender",
+            "importance": 0.22129264431851253
+        },
+        {
+            "feature": "Displaced",
+            "importance": 0.11773726631801182
+        },
+        {
+            "feature": "Marital status",
+            "importance": 0.0
+        },
+        {
+            "feature": "Age at enrollment",
+            "importance": 0.0
+        },
+        {
+            "feature": "International",
+            "importance": 0.0
+        }
+    ]
+}

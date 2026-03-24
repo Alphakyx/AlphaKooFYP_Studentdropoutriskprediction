@@ -1,0 +1,22 @@
+{
+    "project_info": {
+        "title": "Predicting University Student Dropout Risk",
+        "subtitle": "Using Socioeconomic and Academic Performance Indicators",
+        "date": "2026-01-07",
+        "model": "Logistic Regression"
+    },
+    "key_findings": {
+        "best_model": "Logistic Regression",
+        "test_f1_score": 0.8792710706150342,
+        "test_accuracy": 0.9092465753424658,
+        "dropout_recall": 0.8616071428571429,
+        "model_stability": "Excellent"
+    },
+    "file_locations": {
+        "model": "model_results/final_dropout_prediction_model.pkl",
+        "metrics": "model_results/performance_metrics.json",
+        "features": "model_results/feature_importance_full.csv",
+        "risk_thresholds": "model_results/risk_thresholds.json",
+        "interventions": "model_results/intervention_strategies.json"
+    }
+}
